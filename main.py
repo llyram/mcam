@@ -1,5 +1,5 @@
 # importing required libraries
-from PyQt5.QtWidgets import QMainWindow, QApplication, QStatusBar, QToolBar, QAction, QComboBox
+from PyQt5.QtWidgets import QMainWindow, QApplication, QStatusBar, QToolBar, QAction, QComboBox, QErrorMessage
 from PyQt5.QtMultimedia import QCameraInfo, QCamera, QCameraImageCapture
 from PyQt5.QtMultimediaWidgets import QCameraViewfinder
 import os
